@@ -1,3 +1,6 @@
 This is a test file to
 test git and load it 
 to GitHub.com
+
+EDIT: I am adding a 
+bit more to this file!
